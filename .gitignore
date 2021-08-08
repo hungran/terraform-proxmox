@@ -1,0 +1,6 @@
+*terraform*
+.DS_STORE
+terraform.state
+.terraform.lock.hcl
+script/key/*
+*.pub
