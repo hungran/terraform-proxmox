@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/Telmate/terraform-provider-proxmox.svg?branch=master)](https://travis-ci.com/Telmate/terraform-provider-proxmox)
 
+![DONE](docs/)
+
 # Terraform provider plugin for Proxmox
 
 This repository provides both a Terraform provider for the [Proxmox virtualization platform](https://pve.proxmox.com/pve-docs/).
